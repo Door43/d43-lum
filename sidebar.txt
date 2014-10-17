@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lum:home|Door43 (lum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lum|d43-lum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lum/archive/master.zip|d43-lum.zip]]
+
+**Recent Changes**
+{{changes>ns = lum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lum|Ethnologue data]]
+
